@@ -1,7 +1,10 @@
 # kiosk-app-projekct
 Project creating on subject "Interpretatory poleceń"
+
 Main file is projekt.sh
+
 PROJEKT:
+
 Napisać skrypt w systemie linux.
 Skrypt ma się uruchamiać automatycznie przy starcie systemu linux.
 W skrypcie ma się znaleźć odpowiednie menu którym można będzie wybrać i skonfigurować go tak aby przy każdym kolejnym już uruchomieniu systemu linux uruchamiało się to co wybierzemy/skonfigurujemy już zawsze automatycznie na pełnym ekranie bez pokazywania się systemu linux (ukryć proces uruchamiana się sytemu linux).
