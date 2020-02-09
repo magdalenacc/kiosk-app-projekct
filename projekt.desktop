@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=gnome-terminal --full-screen -- /bin/bash -c "/home/stokrotka/Desktop/projekt/projekt.sh; exec /bin/bash"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=projekt.desktop
+Name=Terminal
